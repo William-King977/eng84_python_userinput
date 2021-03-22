@@ -7,7 +7,12 @@ yearly_salary = float(input("Enter your yearly salary: "))
 date_of_birth = input("Enter your date of birth: ")
 post_code = input("Enter your post code: ")
 
+# Printing each variable on a single line
+print("Your input:")
+print(first_name, last_name, age, yearly_salary, date_of_birth, post_code)
+
 # Printing the data type of each variable
+print("Data type of each variable:")
 print(type(first_name))
 print(type(last_name))
 print(type(age))

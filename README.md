@@ -1,4 +1,4 @@
-# Python userinput
+# Python User Input
 ## Task
 - Get the customer's details using ```input()```
 - Print the data type of their details using ```type()```
@@ -13,7 +13,7 @@
 ## Showing the data type of a variable
 - ```type()``` will turn the data type of the variable inside.
 - For instance, with the variable ```name = "King"```, 
-  ```type(name)``` will return ```<class 'str'>``` 
+  ```type(name)``` will return ```<class 'str'>```, 
   showing that ```name``` holds a string.
 - This can be used to check the data type of literals and 
   objects as well.
